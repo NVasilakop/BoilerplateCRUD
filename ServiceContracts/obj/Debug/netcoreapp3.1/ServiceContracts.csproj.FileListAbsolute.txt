@@ -1,8 +1,0 @@
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\bin\Debug\netcoreapp3.1\ServiceContracts.deps.json
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\bin\Debug\netcoreapp3.1\ServiceContracts.dll
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\bin\Debug\netcoreapp3.1\ServiceContracts.pdb
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\obj\Debug\netcoreapp3.1\ServiceContracts.csprojAssemblyReference.cache
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\obj\Debug\netcoreapp3.1\ServiceContracts.AssemblyInfoInputs.cache
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\obj\Debug\netcoreapp3.1\ServiceContracts.AssemblyInfo.cs
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\obj\Debug\netcoreapp3.1\ServiceContracts.dll
-C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ServiceContracts\obj\Debug\netcoreapp3.1\ServiceContracts.pdb
