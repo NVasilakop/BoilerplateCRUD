@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IRepositories/1.0.0": {
+        "dependencies": {
+          "RepoContracts": "1.0.0"
+        },
+        "runtime": {
+          "IRepositories.dll": {}
+        }
+      },
+      "RepoContracts/1.0.0": {
+        "runtime": {
+          "RepoContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepoContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

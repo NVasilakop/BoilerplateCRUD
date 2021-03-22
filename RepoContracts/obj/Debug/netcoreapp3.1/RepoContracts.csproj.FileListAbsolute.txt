@@ -1,0 +1,8 @@
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\bin\Debug\netcoreapp3.1\RepoContracts.deps.json
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\bin\Debug\netcoreapp3.1\RepoContracts.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\bin\Debug\netcoreapp3.1\RepoContracts.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\obj\Debug\netcoreapp3.1\RepoContracts.csprojAssemblyReference.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\obj\Debug\netcoreapp3.1\RepoContracts.AssemblyInfoInputs.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\obj\Debug\netcoreapp3.1\RepoContracts.AssemblyInfo.cs
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\obj\Debug\netcoreapp3.1\RepoContracts.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\RepoContracts\obj\Debug\netcoreapp3.1\RepoContracts.pdb

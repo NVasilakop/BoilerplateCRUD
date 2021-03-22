@@ -1,0 +1,15 @@
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\IRepositories.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\ExternalConnections.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\RepoContracts.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\ExternalConnections.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\IRepositories.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\bin\Debug\netcoreapp3.1\RepoContracts.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb

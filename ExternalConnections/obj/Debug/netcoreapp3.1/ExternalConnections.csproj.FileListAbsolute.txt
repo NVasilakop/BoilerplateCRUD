@@ -1,0 +1,8 @@
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\bin\Debug\netcoreapp3.1\ExternalConnections.deps.json
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\bin\Debug\netcoreapp3.1\ExternalConnections.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\obj\Debug\netcoreapp3.1\ExternalConnections.csprojAssemblyReference.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\obj\Debug\netcoreapp3.1\ExternalConnections.AssemblyInfoInputs.cache
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\obj\Debug\netcoreapp3.1\ExternalConnections.AssemblyInfo.cs
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\bin\Debug\netcoreapp3.1\ExternalConnections.pdb
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\obj\Debug\netcoreapp3.1\ExternalConnections.dll
+C:\Users\nvasilakopoulos\source\repos\BoilerPlateCRUD\ExternalConnections\obj\Debug\netcoreapp3.1\ExternalConnections.pdb
